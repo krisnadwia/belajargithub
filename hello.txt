@@ -4,3 +4,4 @@ kamu anda
 hello world
 
 squash 1
+squash 2
