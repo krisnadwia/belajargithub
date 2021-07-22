@@ -2,3 +2,5 @@ aku saya
 kamu anda
 
 hello world
+
+squash 1
